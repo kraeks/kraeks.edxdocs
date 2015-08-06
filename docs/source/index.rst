@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Kraeks's documentation!
-==================================
+Die Dokumentation des Kräks Projekts
+====================================
 
-Contents:
+Inhaltsverzeichnis:
 
 .. toctree::
    :maxdepth: 2
@@ -18,8 +18,8 @@ Contents:
    courseupload
    courseurls
 
-Indices and tables
-==================
+Verzeichnisse und Tabellen
+==========================
 
 * :ref:`genindex`
 * :ref:`modindex`
