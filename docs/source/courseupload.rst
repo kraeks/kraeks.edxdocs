@@ -35,9 +35,13 @@ Eine Datei wie zum Beispiel ein Bild hochzuladen ist sehr einfach und erfolgt in
 	
 	.. image:: images/oben_rechts.png
 
-----------------------------------------------------------------------------
+.. note::
 
 
+	|i| **Wichtig!** Gehen Sie sicher dass Sie die Rechte an allen Dateien die Sie hochladen besitzten und dass Sie die Quellen korrekt angeben.
 
+	|i| **Wichtig!** Beim generieren der URL für eine hochgeladene Datei wird der Datei-Name Teil dieser und ist somit für jeden der diese Datei benutzt sichtbar. Vermeiden Sie es Datei-Namen zu verwedenden welche Informationen über Inhalte preisgeben, die Sie nicht zugänglich machen wollten. 
 
-
+	|i| **Wichtig!** Falls Sie eine Datei hochladen welche den selben Namen besitzt wie eine bereits hochgeladene Datei wird die ursprüngliche Datei ohne Warnung überschrieben.
+	
+	.. |i| image:: images/i.png
