@@ -16,6 +16,7 @@ Contents:
    coursechecklist
    coursefiles
    courseupload
+   courseurls
 
 Indices and tables
 ==================
