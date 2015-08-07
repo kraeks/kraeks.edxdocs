@@ -20,7 +20,7 @@ Achten Sie auf eine sorgfältige Eingabe der Informationen, da diese mit in die 
 Um die URL zu verändern, nachdem der Kurs erstellt wurde, müssen Sie edX über die Hilfe-Seite (http://help.edge.edx.org) kontaktieren.
 Da die eingegebenen Iformationen Teil der Kurs-URL werden, dürfen in den vier Feldern zusammen maximal 65 Zeichen stehen.
 
-.. image:: images/neuerKurs_start.jpg
+.. image:: images/neuerKurs_start.png
 
 --------------------------------------------------------------------------
 
