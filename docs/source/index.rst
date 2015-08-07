@@ -14,7 +14,6 @@ Inhaltsverzeichnis:
    coursestart
    courseedit
    coursechecklist
-   coursefiles
    courseupload
    courseurls
 
