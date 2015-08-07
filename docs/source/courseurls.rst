@@ -125,6 +125,15 @@ Die letzten 3 Zeilen (hier rot makiert) beschreiben die Konfiguration des IFrame
 
     <iframe src="https://studio.edx.org/c4x/edX/DemoX/asset/eulerLineDemo.html" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="402" width="402">You need an iFrame capable browser to view this.</iframe>
 
+Nach der Web-URL sind die Attribute, welche den IFrame beschreiben, zusammen mit ihren jeweiligen Werten aufgelistet. Sie beschreiben und definieren den IFrame beispielsweise in Höhe, Breite, den Abstand zum Seitenrand und so weiter. Hier eine Auflistungs der meisten gängigen Attribute:
+
+- height ( height="$"): Gibt die Höhe des IFrames in CSS-Pixeln an. "$" steht hierbei für einen beliebigen numeralen Wert
+- width ( width="$"): Gibt die Breite des IFrames in CSS-Pixeln an. "$" steht hierbei für einen beliebigen numeralen Wert
+- src (<iframe src="web-url"></iframe) legt die URL-Adresse des eingebundenen Dokuments fest
+- sandbox ( sandbox="$"): Das Attribut aktiviert einen extra Satz von Einschränkungen für den Inhalt innerhalb des IFrames. Die Eingabe des Attributes ohne Wert (no-value) sorgt dafür, dass der IFrame mit maximalen Einschränkungen hinsichtlich des Surfens innerhalb des IFrames konfiguriert ist.
+- scrolling ( scrolling="yes|no|auto"): Erlaubt oder deaktiviert das Scrollen innerhalb des IFrames.
+- frameborder ( frameborder="1|0"):
+
 
 
 .. _Fullscreenimages:
