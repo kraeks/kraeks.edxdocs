@@ -4,7 +4,7 @@ Nutzen von Datei-URLs um Dateien zu referenzieren
 Nach dem Hochladen einer Datei werden zwei URLs erstellt, welche Sie nutzen können um auf diese Datei innerhalb Ihres Kurses zu referenzieren. Unter "Files & Uploads" sind die Studio-URL sowie die web-URL für jede Datei aufgelistet. 
 
 	- Sie können die **Studio URL** nutzen um eine Datei oder ein Bild zu einer Lektion, einem Kurs-Update oder einem Kurs-Handout hinzuzufügen. Für eine ausführlichere Beschreibung klicken sie hier_.
-	- Die **WEB URL** können Sie einerseits nutzen um eine Datei oder ein Bild zu einer massigen E-mail Nachricht hinzuzufügen. Klicken Sie `Email an Kursteilnehmer senden`_ für eine detailiertere Beschreibung
+	- Die **WEB URL** können Sie einerseits nutzen um eine Datei oder ein Bild zu einer massigen E-mail Nachricht hinzuzufügen. Klicken Sie Email an Kursteilnehmer senden für eine detailiertere Beschreibung
 
 
 .. note::
@@ -54,23 +54,7 @@ Die gewünschte Datei wird sofort erstellt und Sie können diese über die "Edit
 
 **Bei Bildern oder Videos** geben sie einfach nur die URL ein. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-.. _Email an Kursteilnehmer senden: 
-
-Emailbeschreibung
-
-
+----------------------------------------------------------------------------
 
 
 
