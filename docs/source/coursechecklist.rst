@@ -3,6 +3,7 @@ Die Kurs-Checkliste
 ===================
 Um die Durcharbeit der einzelnen Aufgaben zur Erstellung eines Kurses zu erleichtern gibt es innerhalb von Studio eine Checkliste die man dafür benutzten kann. 
 Die Checkliste beinhaltet folgende Kategorien von Aufgaben:
+	
 	- Anfänge mit Studio
 	- Erstellen eines groben Kurs-Entwurfs
 	- Kennenlernen/Erforschen der edX Unterstützungswerkzeuge
