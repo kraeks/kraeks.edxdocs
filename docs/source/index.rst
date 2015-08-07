@@ -24,3 +24,8 @@ Verzeichnisse und Tabellen
 * :ref:`modindex`
 * :ref:`search`
 
+PDF-Dokumente zum Download
+==========================
+
+`Vollständige Dokumentation des Kräks Projekts <http://docs.kraeks.eu/pdf/kraeks_full.pdf>`_
+
